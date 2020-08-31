@@ -50,6 +50,7 @@ protected:
 public:
 	int a;
 	int b;
+	int c;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
