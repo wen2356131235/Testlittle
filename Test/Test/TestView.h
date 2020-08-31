@@ -49,6 +49,7 @@ protected:
 	DECLARE_MESSAGE_MAP()
 public:
 	int a;
+	int b;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
