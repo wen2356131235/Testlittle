@@ -55,7 +55,8 @@ public:
 	int e;
 	int f;
 	int g;
-	double rand;
+	double po;
+	double ip;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
