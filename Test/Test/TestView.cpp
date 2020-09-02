@@ -62,7 +62,6 @@ void CTestView::OnInitialUpdate()
 	ResizeParentToFit();
 	a = b = c = d = e = f = 100;
 
-
 }
 
 
