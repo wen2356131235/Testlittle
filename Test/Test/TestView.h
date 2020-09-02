@@ -59,6 +59,7 @@ public:
 	double ip;
 	double another
 	int ddd;
+	double rrrr;
 	double ddddd;
 };
 
