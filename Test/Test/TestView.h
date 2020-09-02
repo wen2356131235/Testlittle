@@ -59,6 +59,7 @@ public:
 	double ip;
 	double another
 	int ddd;
+	double ddddd;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
