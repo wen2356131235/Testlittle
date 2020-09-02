@@ -57,6 +57,7 @@ public:
 	int g;
 	double po;
 	double ip;
+	double another
 	int ddd;
 };
 
