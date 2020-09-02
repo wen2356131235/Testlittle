@@ -54,7 +54,8 @@ public:
 	int d;
 	int e;
 	int f;
-	int g;
+
+	
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
