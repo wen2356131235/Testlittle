@@ -73,6 +73,8 @@ public:
 	int t1;
 
 	int t2;
+	int u1;
+	
 	int v1;
 };
 
