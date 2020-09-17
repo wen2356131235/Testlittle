@@ -58,11 +58,13 @@ public:
 	double po;
 	double ip;
 	double another
-	int ddd;
+
 	double rrrr;
 	double ddddd;
 	int akoi;
 	double ui;
+	int h2;
+	int h1;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
