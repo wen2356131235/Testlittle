@@ -70,6 +70,8 @@ public:
 	int h3;
 	int ddsss;
 	double ssfd;
+	int t1;
+
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
