@@ -70,6 +70,8 @@ public:
 	int h3;
 	int ddsss;
 	double ssfd;
+	int t1;
+
 	int t2;
 };
 
