@@ -61,6 +61,8 @@ public:
 	int ddd;
 	double rrrr;
 	double ddddd;
+	int g1;
+	int g2;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
