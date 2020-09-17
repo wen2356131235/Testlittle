@@ -61,6 +61,8 @@ public:
 
 	double rrrr;
 	double ddddd;
+	int g1;
+	int g2;
 	int akoi;
 	double ui;
 	int h2;
