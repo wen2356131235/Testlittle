@@ -73,6 +73,7 @@ public:
 	int t1;
 
 	int t2;
+	int v1;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
