@@ -50,6 +50,7 @@ protected:
 public:
 	int a;
 	double  b;
+	double c;
 	
 };
 
