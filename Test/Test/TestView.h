@@ -51,6 +51,7 @@ public:
 	int a;
 	double  b;
 	double c;
+	int d;
 	
 };
 

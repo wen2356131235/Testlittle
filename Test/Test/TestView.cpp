@@ -60,7 +60,7 @@ void CTestView::OnInitialUpdate()
 	CFormView::OnInitialUpdate();
 	GetParentFrame()->RecalcLayout();
 	ResizeParentToFit();
-	a = b = c = d = e = f = 100;
+
 
 }
 
