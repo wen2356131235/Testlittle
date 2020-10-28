@@ -49,6 +49,7 @@ protected:
 	DECLARE_MESSAGE_MAP()
 public:
 	int a;
+	double  b;
 	
 };
 
