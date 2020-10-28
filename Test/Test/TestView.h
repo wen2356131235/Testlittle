@@ -49,33 +49,7 @@ protected:
 	DECLARE_MESSAGE_MAP()
 public:
 	int a;
-	int b;
-	int c;
-	int d;
-	int e;
-	int f;
-	int g;
-	double po;
-	double ip;
-	double another
-
-	double rrrr;
-	double ddddd;
-	int g1;
-	int g2;
-	int akoi;
-	double ui;
-	int h2;
-	int h1;
-	int h3;
-	int ddsss;
-	double ssfd;
-	int t1;
-
-	int t2;
-	int u1;
 	
-	int v1;
 };
 
 #ifndef _DEBUG  // TestView.cpp 中的调试版本
